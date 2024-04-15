@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un repositorio del modulo2 de henry
+Lautaro Mutuberria
+este proyecto es una prueba de como clear un repositorio y clonarlo desde github a nuestro escritorio local
